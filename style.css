@@ -1,0 +1,95 @@
+.fondo-verde {
+  background-color: #1cd1b0;
+  color: #000000;
+  font-size: 15px;
+  margin: 0%;
+  padding: 0%;
+}
+.fondo-azul {
+  background-color: #00669f;
+  color: #000000;
+  font-size: 40px;
+  margin: 0px;
+}
+.fondo-blanco {
+  background-color: #F3F3F3;
+}
+.fondo-footer {
+  background-color: #00669f;
+  color: #fff9f9;
+  height: 40px;
+  text-align: center;
+  position: relative;
+  bottom: 900px;
+}
+.circulo-img {
+  border-radius: 60px;
+}
+
+header {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  margin: 0;
+  border: 0;
+}
+.color-card {
+  background-color: #E5E5E5;
+}
+.ver-mas {
+  background-color: #00669f;
+  color: #f3f3f3;
+  display: inline-block;
+  width: 128.78px;
+  height: 48.52px;
+  text-align: center;
+  font-size: 18px;
+  position: relative;
+  bottom: 80px;
+  left: 80px;
+}
+.cajas {
+  width: 300px;
+  height: 529px;
+  margin: 30px;
+  box-sizing: border-box;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+.posicion-corazon {
+  position: relative;
+  top: -270px;
+  left: 21px;
+}
+.posicion-perfil {
+  position: relative;
+  bottom: 70px;
+  left: 50px;
+}
+h2 {
+  text-align: center;
+  position: relative;
+  bottom: 80px;
+}
+.posicion-texto {
+  position: relative;
+  bottom: 80px;
+  left: 20px;
+  text-align: justify;
+}
+.caja1 {
+ position: relative;
+ top: 100px;
+ left: 32px;
+}
+.caja2 {
+    position: relative;
+    top: -460px;
+    left: 400px;
+}
+.caja3 {
+    position: relative;
+    top: -1020px;
+    left: 770px;
+}
